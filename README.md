@@ -18,5 +18,5 @@ Because not all adult speech is fit to be a source for pitch shifting, it is pos
 
 ## Credits
 Dr. O.E. Scharenborg  
-Dr. T. Patel  
+Dr. T.B. Patel  
 S.M.Z. Van den Broeck
