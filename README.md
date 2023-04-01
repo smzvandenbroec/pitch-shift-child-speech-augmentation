@@ -14,7 +14,7 @@ python main.py source_dir target_dir excel_sheet_name
 ```
 
 ### Issues
-Because not all adult speech is fit to be a source for pitch shifting, it is possible that this script creates "extreme" cases where the quality is low. These files can be separated as they have the "pse" tag instead of "ps", or simply by investigating the "extreme" column in the Excel sheet. In general, woman speech tends to be a better source as they are closer to child speech than males.
+Because not all adult speech is fit to be a source for pitch shifting, it is possible that this script creates "extreme" cases where the quality is low. These files can be separated as they have the "pse" tag instead of "ps", or simply by investigating the "extreme" column in the Excel sheet. In general, female speech tends to be a better source as they are closer to child speech than male speech.
 
 ## Credits
 Dr. O.E. Scharenborg  
